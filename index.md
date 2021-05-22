@@ -4,6 +4,11 @@ You can use the [editor on GitHub](https://github.com/jaimoondra/jaimoondra.gith
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Publications
+
+1. [On the least size of a graph with a given degree set -- II](https://arxiv.org/abs/2009.10294), with Aditya Sahdev and Amitabha Tripathi
+2. [Generating Target Graph Couplings for QAOA from Native Quantum Hardware Couplings](https://arxiv.org/abs/2011.08165)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
