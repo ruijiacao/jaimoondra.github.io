@@ -1,4 +1,4 @@
-PhD student in Algorithms, Combinatorics, and Optimization at Georgia Tech
+PhD student in Algorithms, Combinatorics and Optimization (ACO) at Georgia Tech
 
 ### Publications
 
