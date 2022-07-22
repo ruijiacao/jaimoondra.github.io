@@ -10,6 +10,7 @@ redirect_from:
 
 I am a PhD student in algorithms, combinatorics, and optimization (ACO) at the School of Computer Science, Georgia Tech. My interests include discrete algorithms, combinatorial optimization, combinatorics, and quantum computing.
 
+<!---
 [//]: # (This is the front page of a website that is powered by the [academicpages template]&#40;https://github.com/academicpages/academicpages.github.io&#41; and hosted on GitHub pages. [GitHub pages]&#40;https://pages.github.com&#41; is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme]&#40;https://mmistakes.github.io/minimal-mistakes/&#41; created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository]&#40;https://github.com/academicpages/academicpages.github.io&#41; right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com]&#40;http://stuartgeiger.com&#41;, which uses [this Github repository]&#40;https://github.com/staeiou/staeiou.github.io&#41;.)
 
 [//]: # ()
@@ -79,3 +80,4 @@ I am a PhD student in algorithms, combinatorics, and optimization (ACO) at the S
 [//]: # (------)
 
 [//]: # (More info about configuring academicpages can be found in [the guide]&#40;https://academicpages.github.io/markdown/&#41;. The [guides for the Minimal Mistakes theme]&#40;https://mmistakes.github.io/minimal-mistakes/docs/configuration/&#41; &#40;which this theme was forked from&#41; might also be helpful.)
+-->
