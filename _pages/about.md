@@ -18,7 +18,7 @@ Paper <i>Generating Target Graph Couplings for QAOA from Native Quantum Hardware
 
 #### May 2022
 
-Poster on <i>Reusing Combinatorial Structure: Faster Iterative Projections over Submodular Base Polytopes</i> is runners-up at MIP 2022 poster competition. Find the paper [here](https://jaimoondra.github.io/publication/reusing-combinatorial-structure-faster-iterative-projections-over-submodular-base-polytopes). Joint work with Hassan Mortagy and Swati Gupta.
+Poster on <i>Reusing Combinatorial Structure: Faster Iterative Projections over Submodular Base Polytopes</i> is runner-up at MIP 2022 poster competition. Find the paper [here](https://jaimoondra.github.io/publication/reusing-combinatorial-structure-faster-iterative-projections-over-submodular-base-polytopes). Joint work with Hassan Mortagy and Swati Gupta.
 
 #### December 2021
 
