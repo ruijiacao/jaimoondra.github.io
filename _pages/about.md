@@ -20,6 +20,10 @@ Paper <i>Generating Target Graph Couplings for QAOA from Native Quantum Hardware
 
 Poster on <i>Reusing Combinatorial Structure: Faster Iterative Projections over Submodular Base Polytopes</i> is runner-up at MIP 2022 poster competition. Find the paper [here](https://jaimoondra.github.io/publication/reusing-combinatorial-structure-faster-iterative-projections-over-submodular-base-polytopes). Joint work with Hassan Mortagy and Swati Gupta.
 
+#### February 2022
+
+Paper <i>New Proofs for the Disjunctive Rado Number of the Equations $x_1 - x_2 = a$ and $x_1 - x_2 = b$</i> has been published in Graphs and Combinatorics. Find the paper [here](https://jaimoondra.github.io/publication/new-proofs-for-the-disjunctive-rado-number-of-the-2-equations). Joint work with A. Dileep and Amitabha Tripathi.
+
 #### December 2021
 
 Paper <i>Reusing Combinatorial Structure: Faster Iterative Projections over Submodular Base Polytopes</i> has been published in NeurIPS 2021. Find the paper [here](https://jaimoondra.github.io/publication/reusing-combinatorial-structure-faster-iterative-projections-over-submodular-base-polytopes). Joint work with Hassan Mortagy and Swati Gupta.
